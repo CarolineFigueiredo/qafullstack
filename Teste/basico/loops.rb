@@ -1,4 +1,4 @@
-
+puts 'gosto bastante de loops'
 # 5.times do |i|
 #     puts 'repetindo ' + i.to_s + ' vez(es).'
 # end
