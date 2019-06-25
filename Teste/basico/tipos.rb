@@ -15,8 +15,10 @@ puts disponivel
 puts produto.class
 puts preco.class
 puts quantidade.class
-puts disponivel.class
-
+puts disponivel.
 puts 'Esse é apenas um teste' puts 'alterando a master' 
+
+puts 'Esse é apenas um teste, para nova branch'
+
 
 
