@@ -19,4 +19,6 @@ c.deposita(100.00)
 #para saber se funciona vamos cheecar o saldo
 puts c.saldo
 
+<<<<<<< HEAD
 puts 'editado'
+
