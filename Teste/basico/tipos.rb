@@ -17,6 +17,6 @@ puts preco.class
 puts quantidade.class
 puts disponivel.class
 
-puts 'Esse é apenas um teste'
+puts 'Esse é apenas um teste, para nova branch'
 
 
