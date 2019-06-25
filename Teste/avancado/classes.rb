@@ -18,3 +18,5 @@ c.saldo = 0.0
 c.deposita(100.00)
 #para saber se funciona vamos cheecar o saldo
 puts c.saldo
+
+puts 'editado'
